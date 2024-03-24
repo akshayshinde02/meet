@@ -4,7 +4,7 @@ const io = new Server(3002, {
     cors:true,
   });
 
-    console.log("called api")
+    console.log("called api") 
     // if (io) {
     //     console.log("socket already running")
     // } else {
